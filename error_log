@@ -18,3 +18,11 @@
 [17-Apr-2013 09:25:42] PHP Fatal error:  Call to undefined method Inline_Frame_Decorator::get_current_line_box() in /home/ecwknowl/public_html/int/sites/all/libraries/dompdf/include/absolute_positioner.cls.php on line 91
 [19-Apr-2013 15:14:03] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/ecwknowl/public_html/int/sites/all/libraries/dompdf/include/frame.cls.php on line 316
 [29-Apr-2013 10:35:13] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/ecwknowl/public_html/int/sites/all/libraries/dompdf/include/frame_decorator.cls.php on line 355
+[30-Apr-2013 08:59:10] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[30-Apr-2013 08:59:11] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[30-Apr-2013 08:59:20] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[06-May-2013 14:01:07] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[06-May-2013 14:01:11] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[06-May-2013 14:01:17] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[06-May-2013 14:01:19] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[08-May-2013 10:00:34] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/ecwknowl/public_html/int/sites/all/libraries/dompdf/include/style.cls.php on line 0
