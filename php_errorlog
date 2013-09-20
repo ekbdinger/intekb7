@@ -1,2 +1,5 @@
 [24-May-2013 14:33:31] PHP Fatal error:  Call to undefined method Inline_Frame_Decorator::get_current_line_box() in /home/ecwknowl/public_html/int/sites/all/libraries/dompdf/include/absolute_positioner.cls.php on line 91
 [08-Aug-2013 12:15:30] PHP Fatal error:  Call to undefined method Inline_Frame_Decorator::get_current_line_box() in /home/ecwknowl/public_html/int/sites/all/libraries/dompdf/include/absolute_positioner.cls.php on line 91
+[21-Aug-2013 10:44:17] PHP Fatal error:  Class 'Attribute_Translator' not found in /home/ecwknowl/public_html/int/sites/all/libraries/dompdf/include/stylesheet.cls.php on line 991
+[23-Aug-2013 12:58:41] PHP Fatal error:  Call to undefined method Inline_Frame_Decorator::get_current_line_box() in /home/ecwknowl/public_html/int/sites/all/libraries/dompdf/include/absolute_positioner.cls.php on line 91
+[09-Sep-2013 21:37:36] PHP Fatal error:  Call to undefined method Inline_Frame_Decorator::get_current_line_box() in /home/ecwknowl/public_html/int/sites/all/libraries/dompdf/include/absolute_positioner.cls.php on line 91
