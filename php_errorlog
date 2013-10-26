@@ -5,3 +5,10 @@
 [09-Sep-2013 21:37:36] PHP Fatal error:  Call to undefined method Inline_Frame_Decorator::get_current_line_box() in /home/ecwknowl/public_html/int/sites/all/libraries/dompdf/include/absolute_positioner.cls.php on line 91
 [03-Oct-2013 16:44:32] PHP Fatal error:  Call to undefined method Inline_Frame_Decorator::get_current_line_box() in /home/ecwknowl/public_html/int/sites/all/libraries/dompdf/include/absolute_positioner.cls.php on line 91
 [03-Oct-2013 16:45:25] PHP Fatal error:  Call to undefined method Inline_Frame_Decorator::get_current_line_box() in /home/ecwknowl/public_html/int/sites/all/libraries/dompdf/include/absolute_positioner.cls.php on line 91
+[04-Oct-2013 14:47:46] PHP Fatal error:  Call to undefined method Inline_Frame_Decorator::get_current_line_box() in /home/ecwknowl/public_html/int/sites/all/libraries/dompdf/include/absolute_positioner.cls.php on line 91
+[04-Oct-2013 14:48:02] PHP Fatal error:  Call to undefined method Inline_Frame_Decorator::get_current_line_box() in /home/ecwknowl/public_html/int/sites/all/libraries/dompdf/include/absolute_positioner.cls.php on line 91
+[04-Oct-2013 14:52:07] PHP Fatal error:  Call to undefined method Inline_Frame_Decorator::get_current_line_box() in /home/ecwknowl/public_html/int/sites/all/libraries/dompdf/include/absolute_positioner.cls.php on line 91
+[08-Oct-2013 16:01:48] PHP Fatal error:  Call to undefined function  _field_ui_bundle_admin_path() in /home/ecwknowl/public_html/int/sites/all/modules/field_permissions/field_permissions.admin.inc on line 353
+[08-Oct-2013 16:02:07] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[08-Oct-2013 16:02:30] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[17-Oct-2013 11:40:02] PHP Fatal error:  Call to undefined method Inline_Frame_Decorator::get_current_line_box() in /home/ecwknowl/public_html/int/sites/all/libraries/dompdf/include/absolute_positioner.cls.php on line 91
