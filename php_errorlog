@@ -12,3 +12,5 @@
 [08-Oct-2013 16:02:07] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
 [08-Oct-2013 16:02:30] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
 [17-Oct-2013 11:40:02] PHP Fatal error:  Call to undefined method Inline_Frame_Decorator::get_current_line_box() in /home/ecwknowl/public_html/int/sites/all/libraries/dompdf/include/absolute_positioner.cls.php on line 91
+[28-Oct-2013 12:34:36] PHP Fatal error:  Call to undefined method Inline_Frame_Decorator::get_current_line_box() in /home/ecwknowl/public_html/int/sites/all/libraries/dompdf/include/absolute_positioner.cls.php on line 91
+[28-Oct-2013 12:34:48] PHP Fatal error:  Call to undefined method Inline_Frame_Decorator::get_current_line_box() in /home/ecwknowl/public_html/int/sites/all/libraries/dompdf/include/absolute_positioner.cls.php on line 91
