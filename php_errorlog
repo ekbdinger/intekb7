@@ -14,3 +14,4 @@
 [17-Oct-2013 11:40:02] PHP Fatal error:  Call to undefined method Inline_Frame_Decorator::get_current_line_box() in /home/ecwknowl/public_html/int/sites/all/libraries/dompdf/include/absolute_positioner.cls.php on line 91
 [28-Oct-2013 12:34:36] PHP Fatal error:  Call to undefined method Inline_Frame_Decorator::get_current_line_box() in /home/ecwknowl/public_html/int/sites/all/libraries/dompdf/include/absolute_positioner.cls.php on line 91
 [28-Oct-2013 12:34:48] PHP Fatal error:  Call to undefined method Inline_Frame_Decorator::get_current_line_box() in /home/ecwknowl/public_html/int/sites/all/libraries/dompdf/include/absolute_positioner.cls.php on line 91
+[29-Oct-2013 13:52:29] PHP Fatal error:  Call to undefined method Inline_Frame_Decorator::get_current_line_box() in /home/ecwknowl/public_html/int/sites/all/libraries/dompdf/include/absolute_positioner.cls.php on line 91
